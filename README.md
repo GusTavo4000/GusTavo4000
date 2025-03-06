@@ -54,10 +54,12 @@
 
 <div align="center">
   
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GusTavo4000&theme=blue-green)
+
 ![Built with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![Built with Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GusTavo4000&theme=blue-green)
+### Hope you enjoyed! 🫡
 
 </div>          
             

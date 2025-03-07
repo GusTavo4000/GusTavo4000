@@ -1,4 +1,4 @@
-# Olá!! Eu sou o Gustavo! 👋
+# Olá!! I'm Gustavo! 👋
 
 - 🔭 I'm currently studying Software Engineering at Instituito Nacional de Comunicações (INATEL);
 - 🌱 I’m currently learning Dart for Androir and IOS development;
@@ -54,7 +54,7 @@
 
 <div align="center">
   
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GusTavo4000&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusTavo4000&layout=compact&theme=transparent)
 
 ![Built with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![Built with Science](http://ForTheBadge.com/images/badges/built-with-science.svg)

@@ -1,7 +1,7 @@
 # Olá!! I'm Gustavo! 👋
 
 - 🔭 I'm currently studying Software Engineering at Instituito Nacional de Comunicações (INATEL);
-- 🌱 I’m currently learning Dart for Androir and IOS development;
+- 🌱 I’m currently learning Dart for Androir and IOS development with Flutter, and I'm learning Java also;
 - ⚙️ I'm a member of my university's robotic's team called RobotBulls, and there I work with embedded software, 3D modeling, and electronics.
 - ⚡ Fun fact: I love web and mobile development, but I love robotics as much and I don't know which field to pursue yet. 💀
 
@@ -9,13 +9,14 @@
 
 <div align="center">
   
-## Technologies used 💻 
+## Technologies 💻 
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" >
             <i class="devicon-androidstudio-plain"><i>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" style="float: left; margin-right: 12px;"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" style="float: left; margin-right: 12px;">  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" style="float: left; margin-right: 12px;">      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" style="float: left; margin-right: 12px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" style="float: left; margin-right: 12px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" style="float: left; margin-right: 12px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" style="float: left; margin-right: 12px;">
